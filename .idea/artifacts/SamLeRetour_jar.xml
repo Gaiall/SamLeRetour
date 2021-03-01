@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SamLeRetour:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SamLeRetour_jar</output-path>
+    <root id="archive" name="SamLeRetour.jar">
+      <element id="module-output" name="SamLeRetour" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JARs/JDA-4.2.0_229-withDependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
